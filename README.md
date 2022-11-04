@@ -1,1 +1,2 @@
-# Okane-Extension
+# Okane
+Okane Extension Repo
